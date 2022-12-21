@@ -1,8 +1,8 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview", "Recommendation", "Recommender System", "Collaborative Filtering", "Collaborative Filtering", "Out-of-Distribution","OOD"];
-let titles_model = ["Graph Convolutional Network", "Graph Neural Network", "Graph Convolutional Network"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
+let titles_model = ["Graph Convolutional Network", "Graph Neural Network"];
+let titles_method = ["Self-Supervised", "Imbalanced Learning"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Xiangnan He", "Min Zhang"];
 
 let conferences = [
     // AI
