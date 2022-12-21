@@ -1,5 +1,5 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["BERT", "GPT", "Transformer"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview", "Recommendation", "Recommender System", "Collaborative Filtering", "Collaborative Filtering", "Out-of-Distribution","OOD"];
+let titles_model = ["Graph Convolutional Network", "Graph Neural Network", "Graph Convolutional Network"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
